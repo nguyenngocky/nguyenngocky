@@ -1,8 +1,8 @@
-# <p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+# <p align="center">Nguyễn Ngọc Kỳ</p>
 
 <p align="center">
 	<a href="https://github.com/ngoctienTNT">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<img src="https://avatars.githubusercontent.com/u/89850705?v=4" width = "200" alt="TNT">
 	</a>
 </p>
 
@@ -11,7 +11,7 @@
 ```C#
 namespace TNT
 {
-    class ngoctienTNT
+    class nguyenngocky
     {
         static void Main(string[] args)
         {
@@ -132,60 +132,6 @@ namespace TNT
     </tr>
   </tbody>
 </table>
-
-## <p align="center">Visitor's count :eyes:</p>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{nguyenngocky}/count.svg" alt="nguyenngocky :: Visitor's Count" /></p>
-
-## <p align="center">GitHub Profile Trophy 🏆</p>
-
-<p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=nguyenngocky&theme=tokyonight&row=2&column=4">
-</p>
-
-## <p align="center">Top langs :tongue:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenngocky&langs_count=10&theme=tokyonight&layout=compact" alt="nguyenngocky :: Top Langs" /></p>
-
-## <p align="center">Profile stats :musical_keyboard:</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=nguyenngocky&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
-
-## <p align="center">Repository pin 📌</p>
-
-<p align="center">	
-<a href="https://github.com/nguyenngocky/GiveLoveTNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
-
-<p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
-</a>
-</p>
-
-## <p align="center">Github Contributions 📈</p>
-<br>
-<p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
-<p>
-
-<hr>
-<br>
-
-## <p align="center">Just a snake eating my contributions 🐍</p>
-<p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 <hr>
 <br>
