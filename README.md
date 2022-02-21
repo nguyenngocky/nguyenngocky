@@ -20,7 +20,7 @@ namespace NNK
             string Gender = "Male";
             string Address = "Hà Giang, Việt Nam";
             string University = "Cao đằng FPT Polytechnic - FPT";
-            string Skills = "PHP, HTML, JavaScript";
+            string Skills = "PHP, JavaScript";
         }
     }
 }
